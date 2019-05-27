@@ -54,3 +54,10 @@ h2 > span{
   border: 1px black solid;
   background-color: white;
 }
+footer{
+  text-align: center;
+  color: white;
+}
+i{
+  font-size: 10px;
+}
