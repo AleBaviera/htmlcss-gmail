@@ -10,7 +10,7 @@ body{
   width: 70%;
   margin: auto;
   padding: 20px;
-  
+
 }
 
 h1{
@@ -21,4 +21,36 @@ h1{
 .search{
   margin: auto;
   padding: 20px;
+}
+
+.cerca > div{
+  margin-top: 20px;
+}
+
+h2{
+  color: white;
+}
+
+h2 > span{
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.riga{
+  width: auto;
+  margin: 3px;
+  padding: 5px;
+  background-color: #afafaf;
+  border: 1px black solid;
+
+}
+.testo{
+  color: gray;
+}
+.letta{
+  width: auto;
+  margin: 3px;
+  padding: 5px;
+  border: 1px black solid;
+  background-color: white;
 }
