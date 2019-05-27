@@ -5,3 +5,13 @@
 body{
   background-image: url(https://st2.depositphotos.com/7160562/11318/i/950/depositphotos_113185020-stock-photo-wood-texture-background.jpg);
 }
+
+.box{
+  width: 70%;
+  margin: auto;
+}
+
+h1{
+  color: white;
+  display: inline-block;
+}
